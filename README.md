@@ -4,20 +4,28 @@
 
 ## Description
 
-gcAE is a small geocaching related Safari extension to open listing coordinates and waypoints of the opened geocaching website in maps. This allows you to easy navigate to the geocache without downloading it.
+gcAE is a small helper tool for interacting with geocaching websites. 
+It all started with an action extension to easily perform some actions on geocaching websites.
+New with gcAE 4.0 a real iOS 15 Safari extension is included. This way the actions are even faster reachable.
 
-You can also easy copy the GC-code, GC-link and coordinates to clipboard to paste it for example in a messanger app.
-The App will send you notifications about success or error to copy GC-code/GC-link to clipboard.
+Use the main app to configure the actions you want to see on geocaching websites.
+The following are available:
+- Copy gc code to clipboard
+- Copy gc link to clipboard
+- Copy personal notes to clipboard
+- Copy gc link and personal notes to clipboard
+- Copy listing coordinates to clipboard
+- Create a calendar entry (requires to send a local notification which you have to click)
+- Open geocache in one of your installed geocaching apps like Cachly
+- Open the coordinates in one of your installed navigation apps
 
-Use gcAE to add geocaching events (or geocaches) to your iOS calendar (therefore you have to click on the notification).
+There is a variation of geocaching and navigation apps supported. The main app will list the ones you have installed.
 
-There is also an option to share the GC-link in the standard share menu.
+The previous action extension is still available and covers all the actions the new Safari extension does.
 
-The shown geocache can als be opened in a third party geocaching app. It can't be directly opened, but there are two options.
-A) You get a notification, by clicking on it you will be redirected to the third party geocaching app.
-B) A link to open the third party geocaching app will be included on the current website, behind the geocache name.
+With the action extension you can also pass the gc code from publish emails to your geocaching app.
+Just long press the link in the email, select share and gcAE. You then have the option to open the gc code in your geocaching app
 
-Third party navigation apps are also available via notification.
 
 ----
-Caution: Coordinates on geocaching.com are only visible if you have an account there.
+Coordinates on geocaching.com are only visible if you have an account there.
