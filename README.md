@@ -2,6 +2,9 @@
 
 [Download on the AppStore](https://apps.apple.com/de/app/gcae/id1259388741)
 
+
+[Visit the Wiki](https://github.com/andre0707/gcAE/wiki)
+
 ## Description
 
 gcAE is a small helper tool for interacting with geocaching websites. 
